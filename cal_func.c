@@ -16,7 +16,7 @@ float calculator(float num1,char op, float num2)
 
 
         default:
-            printf("Invalid operator");
+            printf("Operator Invalid");
     }
     return result;
 }
